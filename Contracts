@@ -1,0 +1,9 @@
+ritualHash = keccak256(
+    user,
+    chainProofA,
+    chainProofB,
+    chainProofC,
+    chainProofD,
+    version,
+    timestamp
+)
